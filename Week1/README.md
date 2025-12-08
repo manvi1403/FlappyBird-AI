@@ -104,7 +104,7 @@ You’ll learn:
 - [PyGame Documentation](https://www.pygame.org/docs/)
 - [Geeks for Geeks tutorial](https://www.geeksforgeeks.org/python/pygame-tutorial/)
 
-### 📝 Practice Ideas
+### Practice Ideas
 - Draw a moving circle ("bird")  
 - Implement gravity + flap  
 - Add rectangles as obstacles and detect collisions  
