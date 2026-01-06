@@ -280,3 +280,6 @@ Break any one and learning fails.
 
 
 In short, instead of asking why Q-learning doesn't work, try focussing on what assumption did we break.
+
+## **10. Resources**
+To learn more about Q-learning you can refer to [Q-Learning](https://www.geeksforgeeks.org/machine-learning/q-learning-in-python/)
